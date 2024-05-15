@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tilemap/level1.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "tilemap"
+    ],
+    "file.lastUsedOpenFilter": "全部檔案 (*)",
+    "fileStates": {
+        "tilemap/level1.tmx": {
+            "expandedGroupLayers": [
+                10
+            ],
+            "expandedObjectLayers": [
+                14
+            ],
+            "scale": 4,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1521.75,
+                "y": 256.75
+            }
+        },
+        "tileset.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        }
+    },
+    "frame.defaultDuration": 400,
+    "last.imagePath": "D:/_WorkingProjects/SoftwareStudioLabs/Mario/assets/resources/tilemap",
+    "map.fixedSize": true,
+    "map.height": 14,
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": 1,
+    "map.renderOrder": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 20,
+    "openFiles": [
+        "tilemap/level1.tmx",
+        "tileset.tsx"
+    ],
+    "project": "project.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "tileset.tsx",
+        "tilemap/level1.tmx"
+    ],
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#ff00ff",
+    "tileset.type": 0,
+    "tileset.useTransparentColor": false
+}
